@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Back to the Future",
+        "category": "Previous",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1001,
+        "isFeature": false,
+        "isFeatured": false,
+        "isFavorite": false,
+        "theatre": "Winter Garden Theatre",
+        "coordinates": {
+            "longitude": -73.983772,
+            "latitude": 40.761711
+        },
+        "description": "The Back to the Future musical follows the narrative of the first film with some slight deviations. It tells the story of Marty McFly, a high school student who accidentally travels back in time from 1985 to 1955 in a time-traveling DeLorean car invented by his friend Doc Brown.",
+        "imageName": "backtothefuture"
+    },
+    {
+        "name": "Cabaret",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1002,
+        "isFeature": true,
+        "isFeatured": true,
+        "isFavorite": false,
+        "theatre": "August Wilson Theatre",
+        "coordinates": {
+            "longitude": -73.984329,
+            "latitude": 40.763325
+        },
+        "description": "Cabaret is a musical that explores the decadence of Berlin during the Weimar Republic in the 1920s as the Nazis rise to power. The show is set in the seedy Kit Kat Klub nightclub, where the Master of Ceremonies welcomes the audience with bawdy songs that serve as commentary. The musical follows two doomed romances set against the backdrop of anti-Semitism and fascism in Germany.",
+        "imageName": "cabaret"
+    },
+    {
+        "name": "Hamilton",
+        "category": "Previous",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1003,
+        "isFeature": true,
+        "isFeatured": true,
+        "isFavorite": true,
+        "theatre": "Richard Rodgers Theatre",
+        "coordinates": {
+            "longitude": -73.986750,
+            "latitude": 40.759030
+        },
+        "description": "Hamilton is a Broadway musical drama about the life of Alexander Hamilton, an American Founding Father, written by Lin-Manuel Miranda and based on Ron Chernow's 2004 biography of the same name. The musical follows Hamilton as he fights for honor, love, and a legacy that would shape the course of the nation, and his involvement in the American Revolution and the political history of the early United States. The musical's score blends hip-hop, jazz, R&B, and Broadway.",
+        "imageName": "hamilton"
+    },
+    {
+        "name": "Illinoise",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1004,
+        "isFeature": false,
+        "isFeatured": false,
+        "isFavorite": false,
+        "theatre": "St. James Theatre",
+        "coordinates": {
+            "longitude": -73.9883,
+            "latitude": 40.7580
+        },
+        "description": "Illinoise, a Broadway musical based on Sufjan Stevens's 2005 album of the same name, is about a group of young people who gather around a campfire to share stories about their lives. The show focuses on the story of Henry (Ricky Ubeda), a restless young man who eventually shares his own story of first love, grief, and growing up. The musical explores the power of storytelling as a form of emotional release for both the characters and the audience",
+        "imageName": "Illinoise"
+    },
+    {
+        "name": "Oh, Mary!",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1005,
+        "isFeature": false,
+        "isFeatured": true,
+        "isFavorite": false,
+        "theatre": "Lyceum Theatre",
+        "coordinates": {
+            "longitude": -73.9846,
+            "latitude": 40.7577
+        },
+        "description": "Oh, Mary! is a dark comedy one-act play that satirizes the lives of Mary Todd Lincoln and Abraham Lincoln in the weeks leading up to Lincoln's assassination. The play is written by and stars Cole Escola as Mary Todd Lincoln, a miserable and suffocated woman who longs to be a vaudeville performer and live away from politics. The play also depicts Lincoln as a closeted gay man who uses Mary as a beard to hide his sexuality and is often away from home dealing with the Civil War. The play explores themes of unrequited yearning, alcoholism, and suppressed desires.",
+        "imageName": "ohmary"
+    },
+    {
+        "name": "Six",
+        "category": "Previous",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1006,
+        "isFeature": false,
+        "isFeatured": false,
+        "isFavorite": false,
+        "theatre": "Lena Horne Theatre",
+        "coordinates": {
+            "longitude": -73.98694,
+            "latitude": 40.76000
+        },
+        "description": "Six is a British pop musical comedy on Broadway that retells the lives of Henry VIII's six wives as a singing competition. The show is presented as a concert, with the wives taking turns singing and sharing their stories to determine who suffered the most as queen. The wives ultimately come together to reclaim their identities and rewrite their own stories, rather than being defined solely by their relationships with the king.",
+        "imageName": "six"
+    },
+    {
+        "name": "Stereophonic",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1007,
+        "isFeature": false,
+        "isFeatured": true,
+        "isFavorite": false,
+        "theatre": "Golden Theatre",
+        "coordinates": {
+            "longitude": -73.988007,
+            "latitude": 40.758812
+        },
+        "description": "Stereophonic is a Broadway musical written by David Adjmi and featuring original music by Arcade Fire's Will Butler. The play is about a fictional rock band in 1976 recording a new album in a California studio and on the verge of fame. The band is made up of two couples, one American and one British, and the show explores the pressures of success, the challenges of creating art, and the personal turmoil that can occur behind the scenes. Some say the show is part concert, part breakup drama, and part sound-design marvel, while others describe it as a love song to making art.",
+        "imageName": "stereophonic"
+    },
+    {
+        "name": "Suffs",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1008,
+        "isFeature": true,
+        "isFeatured": true,
+        "isFavorite": true,
+        "theatre": "Music Box Theatre",
+        "coordinates": {
+            "longitude": -73.987267,
+            "latitude": 40.758820
+        },
+        "description": "Suffs is a Broadway musical about the American women's suffrage movement in 1913 and the suffragists who fought for the right to vote, known as 'Suffs'. The show explores the suffragists' victories and failures, as well as the ongoing fight for equality, through the lens of generational, racial, and class divides.",
+        "imageName": "suffs"
+    },
+    {
+        "name": "The Great Gatsby",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1009,
+        "isFeature": false,
+        "isFeatured": true,
+        "isFavorite": false,
+        "theatre": "Broadway Theatre",
+        "coordinates": {
+            "longitude": -73.983246,
+            "latitude": 40.763248
+        },
+        "description": "The Great Gatsby is a Broadway musical based on F. Scott Fitzgerald's 1925 novel of the same name. The story follows Jay Gatsby, a mysterious millionaire, as he tries to rekindle a romance with Daisy Buchanan, a wealthy socialite he once loved when he was poor. The musical is set in the 1920s and explores themes of extravagance, longing, and the corruptness of American society at the time.",
+        "imageName": "thegreatgatsby"
+    },
+    {
+        "name": "The Notebook",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1010,
+        "isFeature": true,
+        "isFeatured": false,
+        "isFavorite": true,
+        "theatre": "Gerald Schoenfeld Theatre",
+        "coordinates": {
+            "longitude": -73.987442,
+            "latitude": 40.758644
+        },
+        "description": "The Notebook is a Broadway musical about the love story of Allie Hamilton and Noah Calhoun, who are separated by societal differences as teenagers but eventually reunite. The musical is based on the best-selling novel by Nicholas Sparks, which was inspired by the story of his wife's grandparents, and explores how their love endures despite challenges like war, class, family, and Alzheimer's disease. Some say the show is a tearjerker and others praise its performances, songs, and production design.",
+        "imageName": "thenotebook"
+    },
+    {
+        "name": "The Wiz",
+        "category": "2024",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1011,
+        "isFeature": false,
+        "isFeatured": false,
+        "isFavorite": false,
+        "theatre": "Marquis Theatre",
+        "coordinates": {
+            "longitude": -73.9864,
+            "latitude": 40.7589
+        },
+        "description": "The Wiz is a Broadway musical that reimagines L. Frank Baum's The Wonderful Wizard of Oz in the context of Black American culture. The musical tells the story of Dorothy, a Kansas farm girl who is transported to the magical Land of Oz by a tornado. With the help of her friends, the Scarecrow, Tin Man, and Cowardly Lion, Dorothy battles the Wicked Witch of the West and eventually learns that there is 'no place like home'. The musical features a mix of rock, gospel, and soul music, as well as dances from the Black diaspora, including street styles, Afrobeats, and amapiano.",
+        "imageName": "thewiz"
+    },
+
+    {
+        "name": "Wicked",
+        "category": "Previous",
+        "city": "New York City",
+        "state": "New York",
+        "id": 1012,
+        "isFeature": false,
+        "isFeatured": false,
+        "isFavorite": false,
+        "theatre": "Gershwin Theatre",
+        "coordinates": {
+            "longitude": -73.9852,
+            "latitude": 40.7623
+        },
+        "description": "Wicked is a Broadway musical that retells the story of the Wicked Witch of the West from a new perspective. The musical is set before Dorothy's arrival in Oz and follows the lives of Elphaba and Galinda, two young witches who start as enemies but eventually become friends. Elphaba has emerald-green skin and an extraordinary talent, while Galinda is popular and blonde. As their friendship develops and their lives take different paths, Elphaba becomes the Wicked Witch of the West and Galinda becomes Glinda the Good Witch.",
+        "imageName": "wicked"
+    }
+]
